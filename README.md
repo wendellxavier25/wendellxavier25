@@ -7,9 +7,9 @@
 - **I'm focused on evolving**
 
 <div align="center">
-    <img loading="lazy" height="500" width="500" alt="stats graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellxavier25&layout=compact&langs_count=7&theme=dracula&locale=en&hide_border=true" />
-    <img height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=wendellxavier25&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=50&order=3" alt="stats graph" />
-    <img height="500" width="500" src="https://streak-stats.demolab.com?user=wendellxavier25&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=50&order=3" alt="streak graph" />
+    <img loading="lazy" height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellxavier25&layout=compact&langs_count=7&theme=dracula&locale=en&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wendellxavier25&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=50&order=3" height="150" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=wendellxavier25&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=50&order=3" height="150" alt="streak graph" />
 </div>
 
 ## Front End
@@ -21,4 +21,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+
 
