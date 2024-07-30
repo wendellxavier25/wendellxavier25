@@ -7,7 +7,7 @@
 - **I'm focused on evolving**
 
 <div align="center">
-    <img loading="lazy" height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellxavier25&layout=compact&langs_count=7&theme=dracula&locale=en&hide_border=true&border_radius=50&order=3" />
+    <img loading="lazy" height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellxavier25&layout=compact&langs_count=7&theme=dracula&locale=en&hide_border=true&border_radius=50&order=2" />
     <img src="https://github-readme-stats.vercel.app/api?username=wendellxavier25&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=50&order=3" height="150" alt="stats graph" />
     <img src="https://streak-stats.demolab.com?user=wendellxavier25&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=50&order=3" height="150" alt="streak graph" />
 </div>
