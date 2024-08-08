@@ -3,7 +3,7 @@
 ## Hi, I'm Wendell Xavier!
 
 - **System analysis and development student**
-- **E-mail:** [wendell_lv22@hotmail.com](mailto:wendell_lv22@hotmail.com)
+- **E-mail:** [wendell_xw20@hotmail.com](mailto:wendell_xw20@hotmail.com)
 - **I'm focused on evolving**
 
 <div align="center">
