@@ -2,9 +2,9 @@
 
 ## Hi, I'm Wendell Xavier!
 
-- **System analysis and development student**
-- **E-mail:** [wendell_xw20@hotmail.com](mailto:wendell_xw20@hotmail.com)
-- **I'm focused on evolving**
+- **👨‍💻System analysis and development student**
+- **📧E-mail:** [wendell_xw20@hotmail.com](mailto:wendell_xw20@hotmail.com)
+- **⚡️I'm focused on evolving**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wendellxavier25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> 
@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=wendellxavier25&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-### <p align="left">Front End</p>
+### <p align="left"> 🖥 Front End</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-### <p align="left">Back End</p>
+### <p align="left"> 👾 Back End</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -36,7 +36,7 @@
           
 </div>
 
-  ## Contacts:
+  ## 📬 Contacts:
 
 <div>
 <a href = "wendellx25@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
